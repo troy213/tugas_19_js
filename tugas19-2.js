@@ -1,0 +1,10 @@
+var a = "*****";
+console.log(a);
+console.log(a.repeat(4));
+console.log(a.repeat(8));
+console.log(a.repeat(12));
+console.log(a.repeat(16));
+console.log(a.repeat(12));
+console.log(a.repeat(8));
+console.log(a.repeat(4));
+console.log(a);
